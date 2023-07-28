@@ -9,27 +9,7 @@ public class Main {
 		//aggiunta corsi
 
 		List<Corso> c = new ArrayList<>();
-		c.add(new Corso("Algebra lineare e geometria",10,30));
-		c.add(new Corso("Analisi matematica I",10,20));
-		c.add(new Corso("Analisi matematica II",8,21));
-		c.add(new Corso("Basi di dati",8,30));
-		c.add(new Corso("Benessere digitale (Grandi Sfide - Tecnologie e Umanità)",6,30));
-		c.add(new Corso("Calcolo numerico: metodi e software",6,30));
-		c.add(new Corso("Chimica",8,27));
-		c.add(new Corso("Economia e organizzazione aziendale",8,24));
-		c.add(new Corso("Elementi di diritto privato",8,24));
-		c.add(new Corso("Fisica I",10,24));
-		c.add(new Corso("Fisica II",6,21));
-		c.add(new Corso("Informatica",8,26));
-		c.add(new Corso("Programmazione a oggetti",8,30));
-		c.add(new Corso("Ricerca operativa",8,26));
-		c.add(new Corso("Sistemi di produzione",8,30));
-		c.add(new Corso("Sistemi elettrici industriali",8,29));
-		c.add(new Corso("Sistemi telematici",8,20));
-		c.add(new Corso("Statistica",10,26));
-		c.add(new Corso("Programmazione e gestione della produzione",10,19));
-		c.add(new Corso("Tecniche di programmazione",10,25));
-		c.add(new Corso("Progettazione di servizi web e reti di calcolatori",8,26));
+		
 		
 		//calcolo media di laurea comlessiva
 		double numC=0;
